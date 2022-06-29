@@ -17,7 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/elichillcce/"target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="b" height="40" width="40" /></a>
- <a href="eli.chillcce.08@gmail.com" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="b" height="40" width="40" /></a>
+ <a href="mailto:eli.chillcce.08@gmail.com" target="blank" 
+<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="b" height="40" width="40" /></a>
 <a href="https://app.slack.com/client/T0NNB6T0R/D03026JNNUU/rimeto_profile/U02V77893T8">
  <img src="https://img.icons8.com/color/48/000000/slack-new.png" width='40' height='40' alt='slack'/>
  </a>
