@@ -26,7 +26,7 @@
 ## Some of my stats :gráfico_de_barras: :
 	
 <p align = "center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethChillcce&layout=compact)](https://github.com/ElizabethChillcce/github-readme-stats)
-	
+
+
 ![ElizabethChillcce GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabethChillcce&show_icons=true)</p>
 
